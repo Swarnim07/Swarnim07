@@ -1,4 +1,13 @@
-# Hi 👋 I'm Swarnim  <br>A Data Analyst focused on data cleaning, exploratory analysis, and interactive dashboards.  <br>I work with SQL, Python, Power BI, and Excel to turn data into decisions.<br>
+<h1 align="center">Hi 👋, I'm Swarnim</h1>
+
+<p align="center">
+  <b>Data Analyst</b> focused on data cleaning, exploratory analysis, and interactive dashboards
+</p>
+
+<p align="center">
+  SQL • Python • Power BI • Excel
+</p>
+
 
 ![](https://komarev.com/ghpvc/?username=Swarnim07&label=Profile%20views&color=0e75b6&style=flat)
 
