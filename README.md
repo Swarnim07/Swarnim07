@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Swarnim</h1>
+<h1 align="center">Hi 👋 I'm Swarnim</h1>
 
 <p align="center">
-  <b>Data Analyst</b> focused on data cleaning, exploratory analysis, and interactive dashboards
+  A Data Analyst focused on data cleaning, exploratory analysis, and interactive dashboards.
 </p>
 
 <p align="center">
-  SQL • Python • Power BI • Excel
+  I work with SQL, Python, Power BI, and Excel to turn data into decisions.
 </p>
 
 
