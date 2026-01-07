@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi 👋 I'm Swarnim  <br>A Data Analyst focused on data cleaning, exploratory analysis, and interactive dashboards.  <br>I work with SQL, Python, Power BI, and Excel to turn data into decisions.<br>
+# Hi 👋 I'm Swarnim  <br>A Data Analyst focused on data cleaning, exploratory analysis, and interactive dashboards.  <br>I work with SQL, Python, Power BI, and Excel to turn data into decisions.<br>
 
 
 ## 🌐 Socials:
